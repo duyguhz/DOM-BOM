@@ -1,0 +1,16 @@
+.big-div {
+  background-color: rgba(34, 32, 32, 0.798);
+  margin: 0 auto;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}
+
+.small-div {
+  background-color: rgba(34, 32, 32, 0.798);
+  margin: 0 auto;
+  text-align: center;
+  font-size: 40px;
+  color: white;
+  margin: 10px;
+}/*# sourceMappingURL=main.css.map */
