@@ -4,6 +4,9 @@
   text-align: center;
   font-size: 40px;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .small-div {
@@ -13,4 +16,12 @@
   font-size: 40px;
   color: white;
   margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: space-evenly;
 }/*# sourceMappingURL=main.css.map */

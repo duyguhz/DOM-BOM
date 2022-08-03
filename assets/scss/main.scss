@@ -4,6 +4,9 @@
     text-align: center;
     font-size: 40px;
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
@@ -14,8 +17,14 @@
     font-size: 40px;
     color: white;
     margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
    
 }
-body{
-   
+.wrapper{
+    display: flex;
+    justify-content: space-evenly;
+  
 }
+
